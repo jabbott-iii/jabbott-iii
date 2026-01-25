@@ -6,6 +6,7 @@
 
 ## Active Projects:
   1. [PythonAPIs](https://github.com/jabbott-iii/PythonAPIs)
+  2. [OmniaCLI](https://github.com/jabbott-iii/OmniaCLI)
 
 ## Portfolio repositories for displaying formal and informal education:
   1. [WGU-University](https://github.com/jabbott-iii/WGU-College-Portfolio) 
