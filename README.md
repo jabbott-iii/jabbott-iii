@@ -5,8 +5,8 @@
 [![Abbott's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jabbott-iii&theme=great-gatsby&show_icons=true)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 ## Active Projects:
-  1. [PythonAPIs](https://github.com/jabbott-iii/PythonAPIs)
-  2. [OmniaCLI](https://github.com/jabbott-iii/OmniaCLI)
+  1. [OmniaCLI](https://github.com/jabbott-iii/OmniaCLI)
+  2. [PythonAPIs](https://github.com/jabbott-iii/PythonAPIs)
 
 ## Portfolio repositories for displaying formal and informal education:
   1. [WGU-University](https://github.com/jabbott-iii/WGU-College-Portfolio) 
