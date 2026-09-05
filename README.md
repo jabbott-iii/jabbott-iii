@@ -1,6 +1,6 @@
 ![Metrics](/github-metrics.svg)
 
-## Contributions to other projects:
+## Open Source Project Contributions:
 [AegisFlow](https://github.com/saivedant169/AegisFlow) - Pull Requests: [#140](https://github.com/saivedant169/AegisFlow/pull/140)
 
 ## Extra Links:
