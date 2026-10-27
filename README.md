@@ -8,6 +8,4 @@
 [InfraCanvas](https://github.com/bytestrix/InfraCanvas) - Pull Requests: [#12](https://github.com/bytestrix/InfraCanvas/pull/12), [#19](https://github.com/bytestrix/InfraCanvas/pull/19), [#21](https://github.com/bytestrix/InfraCanvas/pull/21#pullrequestreview-5424714548)
 
 ## Extra Links:
-[Code Snippets/Gists](https://gist.github.com/jabbott-iii)
-
 [Chronological employment history is maintained here.](https://www.linkedin.com/in/josephabbottiii)
